@@ -8,6 +8,9 @@
   --light-template-background: #fff;
   --accordion-background-active: #2f84ed;
 }
+a#yotpo-widget-btn {
+    text-decoration: none;
+}
 
 * {
   box-sizing: border-box;
